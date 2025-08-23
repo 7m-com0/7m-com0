@@ -38,7 +38,6 @@
 <img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/python.png" alt="python" width="120" hight="50">
 <img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/java.png" alt="java"  width="100" hight="50">
 </br>
- src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/google_cloud_platform.png" alt="google_cloud_platform" width="270" hight="50">
 <img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/visualstudio_code.png" alt="visualstudio_code" width="240" hight="50">
 </br>
 <img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/pc.png" alt="pc" width="100" hight="50">
@@ -71,8 +70,8 @@ If you want to reach out to me about anything, be it some doubt or just to hango
 
 
 <p align="center" >  
-  href="https://github.com/anuraghazra/github-readme-stats"> 
-  src="https://github-readme-stats.vercel.app/api?username=7m-com0&&show_icons=true&theme=radical"/>
+  <a href="https://github.com/anuraghazra/github-readme-stats"> 
+  <img src="https://github-readme-stats.vercel.app/api?username=7m-com0&&show_icons=true&theme=radical"/>
   </a>
   </p>
 
